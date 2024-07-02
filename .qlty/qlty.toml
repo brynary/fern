@@ -1,0 +1,7 @@
+config_version = "0"
+
+ignore_patterns = ["fern/**", "seed/**"]
+
+[sources.default]
+repository = "https://github.com/qltyai/plugins.git"
+ref = "v0.101.0"
